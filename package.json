@@ -10,7 +10,7 @@
    "predeploy": "npm audit",
    "deploy": "git push heroku master"
   },
-  },
+
   "keywords": [],
   "author": "",
   "license": "ISC",
